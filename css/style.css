@@ -1,0 +1,19 @@
+
+#nav-list{
+    margin-top: 5px;
+    
+}
+
+#nav-list a{
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.pagh1{
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: gray;
+    margin: 50px;
+}
